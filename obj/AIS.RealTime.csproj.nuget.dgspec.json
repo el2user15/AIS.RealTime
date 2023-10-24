@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omar.alaa\\Desktop\\AIS\\AIS.RealTime.csproj": {}
+    "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\AIS.RealTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omar.alaa\\Desktop\\AISServices\\AISServices.csproj": {
+    "C:\\Users\\yousef.zakaria\\Desktop\\AISServices\\AISServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar.alaa\\Desktop\\AISServices\\AISServices.csproj",
+        "projectUniqueName": "C:\\Users\\yousef.zakaria\\Desktop\\AISServices\\AISServices.csproj",
         "projectName": "AISServices",
-        "projectPath": "C:\\Users\\omar.alaa\\Desktop\\AISServices\\AISServices.csproj",
-        "packagesPath": "C:\\Users\\omar.alaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar.alaa\\Desktop\\AISServices\\obj\\",
+        "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\AISServices\\AISServices.csproj",
+        "packagesPath": "C:\\Users\\yousef.zakaria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yousef.zakaria\\Desktop\\AISServices\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\omar.alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yousef.zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\omar.alaa\\Desktop\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\omar.alaa\\Desktop\\DAL\\DAL.csproj"
+              "C:\\Users\\yousef.zakaria\\Desktop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\DAL\\DAL.csproj"
               }
             }
           }
@@ -59,21 +62,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omar.alaa\\Desktop\\AIS\\AIS.RealTime.csproj": {
+    "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\AIS.RealTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar.alaa\\Desktop\\AIS\\AIS.RealTime.csproj",
+        "projectUniqueName": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\AIS.RealTime.csproj",
         "projectName": "AIS.RealTime",
-        "projectPath": "C:\\Users\\omar.alaa\\Desktop\\AIS\\AIS.RealTime.csproj",
-        "packagesPath": "C:\\Users\\omar.alaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar.alaa\\Desktop\\AIS\\obj\\",
+        "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\AIS.RealTime.csproj",
+        "packagesPath": "C:\\Users\\yousef.zakaria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\omar.alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yousef.zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,15 +87,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\omar.alaa\\Desktop\\AISServices\\AISServices.csproj": {
-                "projectPath": "C:\\Users\\omar.alaa\\Desktop\\AISServices\\AISServices.csproj"
+              "C:\\Users\\yousef.zakaria\\Desktop\\AISServices\\AISServices.csproj": {
+                "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\AISServices\\AISServices.csproj"
               }
             }
           }
@@ -134,21 +139,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omar.alaa\\Desktop\\Core\\Core.csproj": {
+    "C:\\Users\\yousef.zakaria\\Desktop\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar.alaa\\Desktop\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\yousef.zakaria\\Desktop\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\omar.alaa\\Desktop\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\omar.alaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar.alaa\\Desktop\\Core\\obj\\",
+        "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\yousef.zakaria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yousef.zakaria\\Desktop\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\omar.alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yousef.zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -189,21 +197,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\omar.alaa\\Desktop\\DAL\\DAL.csproj": {
+    "C:\\Users\\yousef.zakaria\\Desktop\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omar.alaa\\Desktop\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\yousef.zakaria\\Desktop\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\omar.alaa\\Desktop\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\omar.alaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omar.alaa\\Desktop\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\yousef.zakaria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yousef.zakaria\\Desktop\\DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\omar.alaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yousef.zakaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -217,8 +228,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\omar.alaa\\Desktop\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\omar.alaa\\Desktop\\Core\\Core.csproj"
+              "C:\\Users\\yousef.zakaria\\Desktop\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\Core\\Core.csproj"
               }
             }
           }
@@ -270,7 +281,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

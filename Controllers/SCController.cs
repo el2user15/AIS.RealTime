@@ -15,30 +15,6 @@ namespace Agri.Controllers
             _context = context;
         }
 
-        /*
-         * Agri/SC/States 
-         * Device_ID=SC_02
-         * &Customer_ID=MP
-         * &SCS=0.00
-         * &pH_Value=3.56
-         * &Soil_humidity=22.60
-         * &Soil_Temperature=25.60
-         * &Soil_Conductivity=245.00
-         * &Nitrogen=17.00
-         * &Phosphorus=26.00
-         * &Potassioum=52.00
-         * &Solenoid_State=0
-         * 80 - 105.35.189.1 - - 404 0 2 69
-         
-         
-         
-         
-         */
-
-
-
-
-
         [HttpGet("States")]
         public async Task<IActionResult> States( string? Device_ID, string? Customer_ID, decimal? SCS, decimal? pH_Value,
             decimal? Soil_humidity, decimal? Soil_Temperature, decimal? Soil_Conductivity, decimal? Nitrogen ,decimal? Phosphorus 

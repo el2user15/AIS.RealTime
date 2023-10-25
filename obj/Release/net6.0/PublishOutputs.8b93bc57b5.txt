@@ -1,9 +1,9 @@
-C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\AIS.RealTime.exe
+C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Agri.exe
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\appsettings.json
-C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\AIS.RealTime.dll
-C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\AIS.RealTime.runtimeconfig.json
-C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\AIS.RealTime.pdb
+C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Agri.dll
+C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Agri.runtimeconfig.json
+C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Agri.pdb
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Microsoft.Data.SqlClient.dll
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -48,4 +48,4 @@ C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\DAL.dll
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\AISServices.pdb
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Core.pdb
 C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\DAL.pdb
-C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\AIS.RealTime.deps.json
+C:\Users\yousef.zakaria\Desktop\AIS\obj\Release\net6.0\PubTmp\Out\Agri.deps.json

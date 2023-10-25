@@ -2460,9 +2460,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\AIS.RealTime.csproj",
-      "projectName": "AIS.RealTime",
-      "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\AIS.RealTime.csproj",
+      "projectUniqueName": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\Agri.csproj",
+      "projectName": "Agri",
+      "projectPath": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\Agri.csproj",
       "packagesPath": "C:\\Users\\yousef.zakaria\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\obj\\",
       "projectStyle": "PackageReference",

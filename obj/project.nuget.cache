@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L5nl0A+UftyVxPnBBOoWHxQkm1MaKYnyOcwm2atA6wyqut/GahRKT1Jn/OK8LB0AXDfBiKWhw/9zrWcp3mh8og==",
+  "dgSpecHash": "5ZYDnD/nTp5WtBDl2znCkSJvDspZc8iKhy/vSkIOULG2K4tAPvmOjJoOPSBHAP76b6H7bioXgkQDu9C3yX1aKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\AIS.RealTime.csproj",
+  "projectFilePath": "C:\\Users\\yousef.zakaria\\Desktop\\AIS\\Agri.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yousef.zakaria\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\yousef.zakaria\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
